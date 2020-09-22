@@ -1,7 +1,7 @@
 # quickJSON
 quickJSON is a Python library designed for interfacing with JSON files. It is a simple module that makes it easier for users to extract, save, and load JSON data.
 
-**NOTE**: Library deprecated. Use (sA)[A] instead.
+**NOTE**: Library deprecated. Use [markwise](github.com/angelcarias/markwise) instead.
 ## Example
 
 **Code**
